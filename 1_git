@@ -1,0 +1,40 @@
+
+Code management tools/Version control 
+
+    GIT/GIT Commands
+    GITHUB/GITLAB/BITBUCKET - Cloud providers git service
+
+Step 1:
+
+Create a account - github.com
+
+Step 2:
+
+Downlad git from gitscm.com
+Do Git local setup and configuration
+
+git commands
+
+    git config --list
+    git config --global user.name "name"
+    git config --global user.email "email id"
+
+
+Step 3:
+
+    Git commands
+
+        Basic
+             
+             git clone url
+             git add filename
+             git commit -m "give any message"
+             git push
+             git pull
+
+
+        Advanced
+
+
+
+
