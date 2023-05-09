@@ -26,12 +26,15 @@ Step 3:
 
         Basic
              
-             git clone url
+             git clone url  
              git add filename
              git commit -m "give any message"
              git push
              git pull
+  
 
+             git init 
+             git remote add origin url
 
         Advanced
 
